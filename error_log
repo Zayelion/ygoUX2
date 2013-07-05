@@ -1,0 +1,5 @@
+[29-Sep-2012 19:02:00] PHP Parse error:  syntax error, unexpected ':' in /home/zayel/public_html/tdoane/wp-content/themes/ygoUX/index.php on line 2
+[29-Sep-2012 19:02:27] PHP Parse error:  syntax error, unexpected '<' in /home/zayel/public_html/tdoane/wp-content/themes/ygoUX/index.php on line 3
+[29-Sep-2012 19:02:37] PHP Parse error:  syntax error, unexpected '<' in /home/zayel/public_html/tdoane/wp-content/themes/ygoUX/index.php on line 3
+[29-Sep-2012 19:02:40] PHP Parse error:  syntax error, unexpected '<' in /home/zayel/public_html/tdoane/wp-content/themes/ygoUX/index.php on line 3
+[29-Sep-2012 19:02:51] PHP Fatal error:  Call to undefined function  get_header() in /home/zayel/public_html/tdoane/wp-content/themes/ygoUX/index.php on line 3
